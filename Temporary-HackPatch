@@ -1,0 +1,21 @@
+SOP theme : Let's go Contactless
+
+We identified the need to go contact-less especially while checking-in as well as out during office hours in corporate houses as well as govt. institutions.
+It's an alarming need post lockdown knowing the harsh consequences this pandemic had brought-in. 
+Thus, to inculcate this very need of being contact-less in our new-normal daily routine, we thought to take the aid of trending tech-blend and come out with an implementable 
+solution to kill the raised concern.
+
+Our basic idea is to keep a tight check on the entry module of any office and this we are going to perform via matching the unique IDs of the entering employees with the 
+authorized entries(already saved in the concerned company's database). 
+If it matches, the person would be considered an authorized one to claim for entering within, otherwise not.
+
+
+
+Tech Stack used in the Hack:
+
+1] TinkerCad 
+2] SQLlite 
+3] ThingSpeak 
+4] Jupyter Notebook  
+5] PyCharm  
+6] GoogleColab
